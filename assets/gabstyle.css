@@ -1,0 +1,14 @@
+body {
+            background-color: rgb(255, 242, 227);
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+            margin: 2%;
+        }
+        h1 {
+            background-color: antiquewhite;
+        }
+        p {
+            color: rgb(85, 85, 85);
+            text-align: justify;
+        }
+
