@@ -42,11 +42,11 @@ Este projeto foi construído do zero utilizando apenas tecnologias web fundament
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://[URL-DO-SEU-REPOSITORIO].git
+    git clone https://github.com/cristianogomesdpf/Gabinete
     ```
 2.  **Navegue até o diretório:**
     ```bash
-    cd [NOME-DO-DIRETORIO]
+    cd Gabinete
     ```
 3.  **Abra o arquivo `index.html`:**
     Basta abrir o arquivo `index.html` diretamente no seu navegador de preferência (Google Chrome, Firefox, etc.).
