@@ -10,9 +10,9 @@ Este projeto foi criado como um exercício prático para aplicar e demonstrar ha
 
 * **Layout com Sidebar Fixa:** Utiliza um menu lateral para navegação principal em telas maiores, um padrão comum em dashboards e sites institucionais.
 * **Design Totalmente Responsivo:** O layout se adapta fluidamente a telas menores. Em dispositivos móveis, a sidebar se transforma em um menu horizontal no topo para otimizar o espaço e a usabilidade.
-* [cite_start]**Navegação Multi-página:** O site é composto por três páginas interligadas (`Início`, `Contato` e `Login`), demonstrando a estruturação de um projeto web completo[cite: 1, 2].
-* [cite_start]**Estrutura Semântica de HTML:** O código utiliza tags HTML5 semânticas (`<main>`, `<h2>`, `<ul>`, etc.), o que melhora a acessibilidade e a otimização para motores de busca (SEO)[cite: 1, 2].
-* [cite_start]**Incorporação de Mídia Externa:** A página inicial inclui vídeos do YouTube incorporados de forma responsiva[cite: 2].
+* **Navegação Multi-página:** O site é composto por três páginas interligadas (`Início`, `Contato` e `Login`), demonstrando a estruturação de um projeto web completo.
+* **Estrutura Semântica de HTML:** O código utiliza tags HTML5 semânticas (`<main>`, `<h2>`, `<ul>`, etc.), o que melhora a acessibilidade e a otimização para motores de busca.
+* **Incorporação de Mídia Externa:** A página inicial inclui vídeos do YouTube incorporados de forma responsiva.
 
 ---
 
